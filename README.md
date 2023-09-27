@@ -1,6 +1,6 @@
-## Gran Encuesta Integrada de Hogares
+# Gran Encuesta Integrada de Hogares
 
-# Miembros del grupo
+## Miembros del grupo
 
 - Cristian Camilo Serna Betancur, CC 1018351871, Ingeniería de Sistemas
 - Diego Alonso Herrera Ramírez, CC 70908268, Ingeniería de Sistemas
