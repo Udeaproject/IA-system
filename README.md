@@ -6,7 +6,7 @@
 - Diego Alonso Herrera Ramírez, CC 70908268, Ingeniería de Sistemas
 - Sharid Samantha Madrid Ospina, CC 1001652997, Ingeniería de Sistemas
 
-##Datos
+## Datos
 Los datos del proyecto vienen de La competición Kaggle Hotel Booking Dataset, puedes acceder a el a través del siguiente enlace:[ Hotel Booking Dataset](https://www.kaggle.com/datasets/saadharoon27/hotel-booking-dataset)
 
 A continuación, se proporciona el código para cargar el conjunto de datos original utilizando pandas:
