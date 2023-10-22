@@ -11,8 +11,9 @@ Los datos del proyecto vienen de La competición Kaggle Hotel Booking Dataset, p
 
 A continuación, se proporciona el código para cargar el conjunto de datos original utilizando pandas:
 
-! import pandas as pd
-! data = pd.read_csv("https://raw.githubusercontent.com/Udeaproject/IA-system/main/hotel_booking.csv", delimiter=",")
-! print(data.columns)
+
+    import pandas as pd
+    data = pd.read_csv("https://raw.githubusercontent.com/Udeaproject/IA-system/main/hotel_booking.csv", delimiter=",")
+    print(data.columns)
 
 Este código te permitirá cargar el conjunto de datos en un entorno como Colab y mostrar las columnas disponibles en el conjunto de datos.
