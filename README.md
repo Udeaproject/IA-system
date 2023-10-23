@@ -17,3 +17,6 @@ A continuación, se proporciona el código para cargar el conjunto de datos orig
     print(data.columns)
 
 Este código te permitirá cargar el conjunto de datos en un entorno como Colab y mostrar las columnas disponibles en el conjunto de datos.
+## Videos
+
+- [Video primera entrega](https://youtube.com/watch?v=6kQz3kwmcYI&feature=shared)
