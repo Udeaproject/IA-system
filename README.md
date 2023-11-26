@@ -20,3 +20,4 @@ Este código te permitirá cargar el conjunto de datos en un entorno como Colab 
 ## Videos
 
 - [Video primera entrega](https://youtube.com/watch?v=6kQz3kwmcYI&feature=shared)
+-  [Video entrega final](https://www.youtube.com/watch?v=BNoyMUijuII)
